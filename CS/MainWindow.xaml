@@ -1,0 +1,138 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:ToggleSwitch="clr-namespace:ToggleSwitch;assembly=ToggleSwitch" xmlns:Tools="clr-namespace:pdftron.PDF.Tools" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="PDFViewWPFSimple.MainWindow"
+        Title="FadingInk" Height="700" Width="900" Background="White">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ControlTemplate x:Key="RoundedTextbox" TargetType="TextBox">
+                <Border CornerRadius="10" Background="White" BorderBrush="#FF66615B" BorderThickness="1">
+                    <ScrollViewer x:Name="PART_ContentHost" />
+                </Border>
+            </ControlTemplate>
+            <Style x:Key="RoundedButtonStyle" TargetType="{x:Type Button}">
+                <Setter Property="Opacity" Value="1"></Setter>
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="Button">
+                            <Border Name="border" CornerRadius="10" Background="White" BorderBrush="#FF66615B" BorderThickness="1">
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Top"></ContentPresenter>
+                            </Border>
+                            <ControlTemplate.Triggers>
+                                <Trigger Property="Button.IsPressed" Value="True">
+                                    <Setter  Property="Opacity" Value="0.2"/>
+                                </Trigger>
+                            </ControlTemplate.Triggers>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+            </Style>
+            <Style x:Key="RoundedToggleButtonStyle" TargetType="{x:Type ToggleButton}">
+                <Setter Property="Opacity" Value="1"></Setter>
+                <Setter Property="Template">
+                    <Setter.Value>
+                        <ControlTemplate TargetType="ToggleButton">
+                            <Border Name="border" CornerRadius="10" Background="LightGray" BorderBrush="#FF66615B" BorderThickness="1">
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Top"></ContentPresenter>
+                            </Border>
+                            <ControlTemplate.Triggers>
+                                <Trigger Property="ToggleButton.IsPressed" Value="True">
+                                    <Setter  Property="Opacity" Value="0.4"/>
+                                </Trigger>
+                                <Trigger Property="IsChecked" Value="False">
+                                    <Setter Property="Content" Value="fading"></Setter>
+                                </Trigger>
+                            </ControlTemplate.Triggers>
+                        </ControlTemplate>
+                    </Setter.Value>
+                </Setter>
+                <Setter Property="Content" Value="normal">
+                </Setter>
+            </Style>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid x:Name="LayoutRoot">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="367*"/>
+            <ColumnDefinition Width="529*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid x:Name="MainWindowGrid"  Margin="0,0,0,0.5" Grid.ColumnSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0"/>
+            <Border BorderBrush="Silver" BorderThickness="0,0,0,1">
+                <Grid Grid.Row="1" Margin="0,0,0,0" Height="50">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="70"/>
+                        <ColumnDefinition Width="70"/>
+                        <ColumnDefinition Width="70"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="70"/>
+                        <ColumnDefinition Width="70"/>
+                        <ColumnDefinition Width="70"/>
+                        <ColumnDefinition Width="70"/>
+                        <ColumnDefinition Width="70"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0">
+                        <Button x:Name="Open"  Click="btnOpen_Clicked" Content="open" Style="{StaticResource RoundedButtonStyle}" HorizontalAlignment="Center" Width="60" Height="20" FontSize="12" FontFamily="Segoe UI Light"/>
+                    </Grid>
+                    <Grid Grid.Column="1">
+                        <Button x:Name="SavePDF"  Click="btnSave_Clicked" Content="save" Style="{StaticResource RoundedButtonStyle}" HorizontalAlignment="Center" Width="60" Height="20" FontSize="12" FontFamily="Segoe UI Light"/>
+                    </Grid>
+                    <Grid Grid.Column="2">
+                        <Button x:Name="SaveAsPDF"  Click="btnSaveAs_Clicked" Content="save as" Style="{StaticResource RoundedButtonStyle}" HorizontalAlignment="Center" Width="60" Height="20" FontSize="12" FontFamily="Segoe UI Light"/>
+                    </Grid>
+                    <Grid Grid.Column="3">
+                        <Button x:Name="button" Background="White" BorderBrush="White" HorizontalAlignment="Right" Margin="0" VerticalAlignment="Center" Width="75" Height="50" StylusDown="setpenid"/>
+                        <Button x:Name="LogButton"  Click="log" Content="log" Style="{StaticResource RoundedButtonStyle}" HorizontalAlignment="Center" Width="60" Height="20" FontSize="12" FontFamily="Segoe UI Light" Margin="70,15,205,15"/>
+                    </Grid>
+                    <Grid Grid.Column="4">
+                        <Button x:Name="ClickResetAnno"  Click="ResetAnno" Content="reappear" Style="{StaticResource RoundedButtonStyle}" HorizontalAlignment="Center" Width="60" Height="20" FontSize="12" FontFamily="Segoe UI Light"/>
+                    </Grid>
+                    <Grid Grid.Column="5">
+                        <Button x:Name="ClickHideAnno"  Click="HideAnno" Content="hide" Style="{StaticResource RoundedButtonStyle}"  HorizontalAlignment="Center" Width="60" Height="20" FontSize="12" FontFamily="Segoe UI Light"/>
+                    </Grid>
+                    <Grid Grid.Column="6">
+                        <TextBox Name="fadingtime" Template="{StaticResource RoundedTextbox}" Text="180"  HorizontalAlignment="Center" Width="60" Height="20" FontSize="12" FontFamily="Segoe UI Light" TextAlignment="Center" KeyDown="OnKeyDownHandler">
+                            <!--<TextBox.InputBindings>
+                            <KeyBinding Key="Return" 
+                        Command="{Binding MyCommand}"
+                        CommandParameter="{Binding ElementName=MyTextBox, Path=Text}"/>
+                        </TextBox.InputBindings>-->
+                        </TextBox>
+                    </Grid>
+                    <Grid Grid.Column="7">
+                        <ToggleButton x:Name="FadingControl" Click="fadingswitch_Clicked" Style="{StaticResource RoundedToggleButtonStyle}" HorizontalAlignment="Center" Margin="0,0,0,0" Width="60" Height="20" VerticalAlignment="Center" FontSize="12" FontFamily="Segoe UI Light"/>
+                    </Grid>
+                    <Grid Grid.Column="8">
+                        <Grid Width="60" Height="20" >
+                            <TextBox  x:Name="txtbox_pagenum" Width="30" BorderThickness="0" Background="Transparent" FontSize="12" FontFamily="Segoe UI Light"  Height="25" TextAlignment="Center" Margin="0,2,20,0" >
+                            </TextBox>
+                            <Label x:Name="txt_pagecount" Width="40"  FontSize="12" FontFamily="Segoe UI Light" Height="25" Margin="20,-2,0,0" VerticalAlignment="Center"/>
+                        </Grid>
+                        <Border BorderBrush="#FF66615B" CornerRadius="10" BorderThickness="1" Height="20" HorizontalAlignment="Center" VerticalAlignment="Center" Width="60"/>
+                    </Grid>
+                </Grid>
+            </Border>
+            <!--<Separator Background="Silver" Height="1" Grid.Row="1" VerticalAlignment="Bottom"/>-->
+            <Grid Grid.Row="2" x:Name="PDFGrid" Margin="0,0,0,0" />
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="183*"/>
+                    <ColumnDefinition Width="110*"/>
+                    <ColumnDefinition Width="603*"/>
+                </Grid.ColumnDefinitions>
+
+
+            </Grid>
+
+        </Grid>
+
+    </Grid>
+</Window>

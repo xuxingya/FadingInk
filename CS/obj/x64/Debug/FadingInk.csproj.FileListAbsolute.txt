@@ -1,0 +1,234 @@
+C:\Users\hmp\Desktop\FadingInkNew\CS\bin\x64\Debug\PDFNet.dll
+C:\Users\hmp\Desktop\FadingInkNew\CS\bin\x64\Debug\ToggleSwitch.dll
+C:\Users\hmp\Desktop\FadingInkNew\CS\bin\x64\Debug\PDFNet.xml
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\Utilities\FormSelectionView.baml
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\MainWindow.g.cs
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\Utilities\AnnotationPropertiesPopup.g.cs
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\Utilities\ColorPicker.g.cs
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\Utilities\FormSelectionView.g.cs
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\App.g.cs
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\MainWindow.baml
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\Utilities\AnnotationPropertiesPopup.baml
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\Utilities\ColorPicker.baml
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\PDFViewWPFSimpleTestCS.Properties.Resources.resources
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\FadingInk.csproj.GenerateResource.Cache
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\FadingInk.csprojResolveAssemblyReference.cache
+C:\Users\hmp\Desktop\FadingInkNew\CS\bin\x64\Debug\FadingInk.exe.config
+C:\Users\hmp\Desktop\FadingInkNew\CS\bin\x64\Debug\FadingInk.exe.manifest
+C:\Users\hmp\Desktop\FadingInkNew\CS\bin\x64\Debug\FadingInk.application
+C:\Users\hmp\Desktop\FadingInkNew\CS\bin\x64\Debug\FadingInk.exe
+C:\Users\hmp\Desktop\FadingInkNew\CS\bin\x64\Debug\FadingInk.pdb
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\FadingInk_MarkupCompile.cache
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\FadingInk_MarkupCompile.lref
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\FadingInk.g.resources
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\FadingInk.exe.manifest
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\FadingInk.application
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\FadingInk.exe
+C:\Users\hmp\Desktop\FadingInkNew\CS\obj\x64\Debug\FadingInk.pdb
+C:\Users\hmp\Desktop\FadingInk2.0\CS\bin\x64\Debug\FadingInk.exe.config
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\FadingInk.exe
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\FadingInk.pdb
+C:\Users\hmp\Desktop\FadingInk2.0\CS\bin\x64\Debug\FadingInk.exe.manifest
+C:\Users\hmp\Desktop\FadingInk2.0\CS\bin\x64\Debug\FadingInk.application
+C:\Users\hmp\Desktop\FadingInk2.0\CS\bin\x64\Debug\FadingInk.exe
+C:\Users\hmp\Desktop\FadingInk2.0\CS\bin\x64\Debug\FadingInk.pdb
+C:\Users\hmp\Desktop\FadingInk2.0\CS\bin\x64\Debug\PDFNet.dll
+C:\Users\hmp\Desktop\FadingInk2.0\CS\bin\x64\Debug\ToggleSwitch.dll
+C:\Users\hmp\Desktop\FadingInk2.0\CS\bin\x64\Debug\PDFNet.xml
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\FadingInk.csprojResolveAssemblyReference.cache
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\Utilities\FormSelectionView.baml
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\MainWindow.g.cs
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\Utilities\AnnotationPropertiesPopup.g.cs
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\Utilities\ColorPicker.g.cs
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\Utilities\FormSelectionView.g.cs
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\App.g.cs
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\FadingInk_MarkupCompile.cache
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\FadingInk_MarkupCompile.lref
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\MainWindow.baml
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\Utilities\AnnotationPropertiesPopup.baml
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\Utilities\ColorPicker.baml
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\FadingInk.g.resources
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\PDFViewWPFSimpleTestCS.Properties.Resources.resources
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\FadingInk.csproj.GenerateResource.Cache
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\FadingInk.exe.manifest
+C:\Users\hmp\Desktop\FadingInk2.0\CS\obj\x64\Debug\FadingInk.application
+C:\Users\hmp\Desktop\FadingInk4.00\CS\bin\x64\Debug\FadingInk.exe.config
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\FadingInk.exe
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\FadingInk.pdb
+C:\Users\hmp\Desktop\FadingInk4.00\CS\bin\x64\Debug\FadingInk.exe.manifest
+C:\Users\hmp\Desktop\FadingInk4.00\CS\bin\x64\Debug\FadingInk.application
+C:\Users\hmp\Desktop\FadingInk4.00\CS\bin\x64\Debug\FadingInk.exe
+C:\Users\hmp\Desktop\FadingInk4.00\CS\bin\x64\Debug\FadingInk.pdb
+C:\Users\hmp\Desktop\FadingInk4.00\CS\bin\x64\Debug\PDFNet.dll
+C:\Users\hmp\Desktop\FadingInk4.00\CS\bin\x64\Debug\ToggleSwitch.dll
+C:\Users\hmp\Desktop\FadingInk4.00\CS\bin\x64\Debug\PDFNet.xml
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\FadingInk.csprojResolveAssemblyReference.cache
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\Utilities\FormSelectionView.baml
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\MainWindow.g.cs
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\Utilities\AnnotationPropertiesPopup.g.cs
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\Utilities\ColorPicker.g.cs
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\Utilities\FormSelectionView.g.cs
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\App.g.cs
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\FadingInk_MarkupCompile.cache
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\FadingInk_MarkupCompile.lref
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\MainWindow.baml
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\Utilities\AnnotationPropertiesPopup.baml
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\Utilities\ColorPicker.baml
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\FadingInk.g.resources
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\PDFViewWPFSimpleTestCS.Properties.Resources.resources
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\FadingInk.csproj.GenerateResource.Cache
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\FadingInk.exe.manifest
+C:\Users\hmp\Desktop\FadingInk4.00\CS\obj\x64\Debug\FadingInk.application
+C:\Users\hmp\Desktop\FadingInk5.00\CS\bin\x64\Debug\FadingInk.exe.config
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\FadingInk.exe
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\FadingInk.pdb
+C:\Users\hmp\Desktop\FadingInk5.00\CS\bin\x64\Debug\FadingInk.exe.manifest
+C:\Users\hmp\Desktop\FadingInk5.00\CS\bin\x64\Debug\FadingInk.application
+C:\Users\hmp\Desktop\FadingInk5.00\CS\bin\x64\Debug\FadingInk.exe
+C:\Users\hmp\Desktop\FadingInk5.00\CS\bin\x64\Debug\FadingInk.pdb
+C:\Users\hmp\Desktop\FadingInk5.00\CS\bin\x64\Debug\PDFNet.dll
+C:\Users\hmp\Desktop\FadingInk5.00\CS\bin\x64\Debug\ToggleSwitch.dll
+C:\Users\hmp\Desktop\FadingInk5.00\CS\bin\x64\Debug\PDFNet.xml
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\FadingInk.csprojResolveAssemblyReference.cache
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\Utilities\FormSelectionView.baml
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\MainWindow.g.cs
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\Utilities\AnnotationPropertiesPopup.g.cs
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\Utilities\ColorPicker.g.cs
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\Utilities\FormSelectionView.g.cs
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\App.g.cs
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\FadingInk_MarkupCompile.cache
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\FadingInk_MarkupCompile.lref
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\MainWindow.baml
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\Utilities\AnnotationPropertiesPopup.baml
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\Utilities\ColorPicker.baml
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\FadingInk.g.resources
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\PDFViewWPFSimpleTestCS.Properties.Resources.resources
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\FadingInk.csproj.GenerateResource.Cache
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\FadingInk.exe.manifest
+C:\Users\hmp\Desktop\FadingInk5.00\CS\obj\x64\Debug\FadingInk.application
+C:\Users\hmp\Desktop\FadingInk6.00\CS\bin\x64\Debug\FadingInk.exe.config
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\FadingInk.exe
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\FadingInk.pdb
+C:\Users\hmp\Desktop\FadingInk6.00\CS\bin\x64\Debug\FadingInk.exe.manifest
+C:\Users\hmp\Desktop\FadingInk6.00\CS\bin\x64\Debug\FadingInk.application
+C:\Users\hmp\Desktop\FadingInk6.00\CS\bin\x64\Debug\FadingInk.exe
+C:\Users\hmp\Desktop\FadingInk6.00\CS\bin\x64\Debug\FadingInk.pdb
+C:\Users\hmp\Desktop\FadingInk6.00\CS\bin\x64\Debug\PDFNet.dll
+C:\Users\hmp\Desktop\FadingInk6.00\CS\bin\x64\Debug\ToggleSwitch.dll
+C:\Users\hmp\Desktop\FadingInk6.00\CS\bin\x64\Debug\PDFNet.xml
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\FadingInk.csprojResolveAssemblyReference.cache
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\Utilities\FormSelectionView.baml
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\MainWindow.g.cs
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\Utilities\AnnotationPropertiesPopup.g.cs
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\Utilities\ColorPicker.g.cs
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\Utilities\FormSelectionView.g.cs
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\App.g.cs
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\FadingInk_MarkupCompile.cache
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\FadingInk_MarkupCompile.lref
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\MainWindow.baml
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\Utilities\AnnotationPropertiesPopup.baml
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\Utilities\ColorPicker.baml
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\FadingInk.g.resources
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\PDFViewWPFSimpleTestCS.Properties.Resources.resources
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\FadingInk.csproj.GenerateResource.Cache
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\FadingInk.exe.manifest
+C:\Users\hmp\Desktop\FadingInk6.00\CS\obj\x64\Debug\FadingInk.application
+C:\Fadingink Manager\FadingInk8.00\CS\bin\x64\Debug\FadingInk.exe.config
+C:\Fadingink Manager\FadingInk8.00\CS\obj\x64\Debug\FadingInk.exe
+C:\Fadingink Manager\FadingInk8.00\CS\obj\x64\Debug\FadingInk.pdb
+C:\Fadingink Manager\FadingInk8.00\CS\bin\x64\Debug\FadingInk.exe.manifest
+C:\Fadingink Manager\FadingInk8.00\CS\bin\x64\Debug\FadingInk.application
+C:\Fadingink Manager\FadingInk8.00\CS\bin\x64\Debug\FadingInk.exe
+C:\Fadingink Manager\FadingInk8.00\CS\bin\x64\Debug\FadingInk.pdb
+C:\Fadingink Manager\FadingInk8.00\CS\bin\x64\Debug\PDFNet.dll
+C:\Fadingink Manager\FadingInk8.00\CS\bin\x64\Debug\ToggleSwitch.dll
+C:\Fadingink Manager\FadingInk8.00\CS\bin\x64\Debug\PDFNet.xml
+C:\Fadingink Manager\FadingInk8.00\CS\obj\x64\Debug\Utilities\FormSelectionView.baml
+C:\Fadingink Manager\FadingInk8.00\CS\obj\x64\Debug\MainWindow.g.cs
+C:\Fadingink Manager\FadingInk8.00\CS\obj\x64\Debug\Utilities\AnnotationPropertiesPopup.g.cs
+C:\Fadingink Manager\FadingInk8.00\CS\obj\x64\Debug\Utilities\ColorPicker.g.cs
+C:\Fadingink Manager\FadingInk8.00\CS\obj\x64\Debug\Utilities\FormSelectionView.g.cs
+C:\Fadingink Manager\FadingInk8.00\CS\obj\x64\Debug\App.g.cs
+C:\Fadingink Manager\FadingInk8.00\CS\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Fadingink Manager\FadingInk8.00\CS\obj\x64\Debug\FadingInk_MarkupCompile.cache
+C:\Fadingink Manager\FadingInk8.00\CS\obj\x64\Debug\FadingInk_MarkupCompile.lref
+C:\Fadingink Manager\FadingInk8.00\CS\obj\x64\Debug\MainWindow.baml
+C:\Fadingink Manager\FadingInk8.00\CS\obj\x64\Debug\Utilities\AnnotationPropertiesPopup.baml
+C:\Fadingink Manager\FadingInk8.00\CS\obj\x64\Debug\Utilities\ColorPicker.baml
+C:\Fadingink Manager\FadingInk8.00\CS\obj\x64\Debug\FadingInk.g.resources
+C:\Fadingink Manager\FadingInk8.00\CS\obj\x64\Debug\PDFViewWPFSimpleTestCS.Properties.Resources.resources
+C:\Fadingink Manager\FadingInk8.00\CS\obj\x64\Debug\FadingInk.csproj.GenerateResource.Cache
+C:\Fadingink Manager\FadingInk8.00\CS\obj\x64\Debug\FadingInk.exe.manifest
+C:\Fadingink Manager\FadingInk8.00\CS\obj\x64\Debug\FadingInk.application
+C:\Fadingink Manager\FadingInk9.00\CS\bin\x64\Debug\FadingInk.exe.config
+C:\Fadingink Manager\FadingInk9.00\CS\bin\x64\Debug\FadingInk.exe.manifest
+C:\Fadingink Manager\FadingInk9.00\CS\bin\x64\Debug\FadingInk.application
+C:\Fadingink Manager\FadingInk9.00\CS\bin\x64\Debug\FadingInk.exe
+C:\Fadingink Manager\FadingInk9.00\CS\bin\x64\Debug\FadingInk.pdb
+C:\Fadingink Manager\FadingInk9.00\CS\bin\x64\Debug\PDFNet.dll
+C:\Fadingink Manager\FadingInk9.00\CS\bin\x64\Debug\ToggleSwitch.dll
+C:\Fadingink Manager\FadingInk9.00\CS\bin\x64\Debug\PDFNet.xml
+C:\Fadingink Manager\FadingInk9.00\CS\obj\x64\Debug\Utilities\FormSelectionView.baml
+C:\Fadingink Manager\FadingInk9.00\CS\obj\x64\Debug\MainWindow.g.cs
+C:\Fadingink Manager\FadingInk9.00\CS\obj\x64\Debug\Utilities\AnnotationPropertiesPopup.g.cs
+C:\Fadingink Manager\FadingInk9.00\CS\obj\x64\Debug\Utilities\ColorPicker.g.cs
+C:\Fadingink Manager\FadingInk9.00\CS\obj\x64\Debug\Utilities\FormSelectionView.g.cs
+C:\Fadingink Manager\FadingInk9.00\CS\obj\x64\Debug\App.g.cs
+C:\Fadingink Manager\FadingInk9.00\CS\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Fadingink Manager\FadingInk9.00\CS\obj\x64\Debug\FadingInk_MarkupCompile.cache
+C:\Fadingink Manager\FadingInk9.00\CS\obj\x64\Debug\FadingInk_MarkupCompile.lref
+C:\Fadingink Manager\FadingInk9.00\CS\obj\x64\Debug\MainWindow.baml
+C:\Fadingink Manager\FadingInk9.00\CS\obj\x64\Debug\Utilities\AnnotationPropertiesPopup.baml
+C:\Fadingink Manager\FadingInk9.00\CS\obj\x64\Debug\Utilities\ColorPicker.baml
+C:\Fadingink Manager\FadingInk9.00\CS\obj\x64\Debug\FadingInk.g.resources
+C:\Fadingink Manager\FadingInk9.00\CS\obj\x64\Debug\PDFViewWPFSimpleTestCS.Properties.Resources.resources
+C:\Fadingink Manager\FadingInk9.00\CS\obj\x64\Debug\FadingInk.csproj.GenerateResource.Cache
+C:\Fadingink Manager\FadingInk9.00\CS\obj\x64\Debug\FadingInk.exe.manifest
+C:\Fadingink Manager\FadingInk9.00\CS\obj\x64\Debug\FadingInk.application
+C:\Fadingink Manager\FadingInk9.00\CS\obj\x64\Debug\FadingInk.exe
+C:\Fadingink Manager\FadingInk9.00\CS\obj\x64\Debug\FadingInk.pdb
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\FadingInk.csprojResolveAssemblyReference.cache
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\Utilities\FormSelectionView.baml
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\MainWindow.g.cs
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\Utilities\AnnotationPropertiesPopup.g.cs
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\Utilities\ColorPicker.g.cs
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\Utilities\FormSelectionView.g.cs
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\App.g.cs
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\FadingInk_MarkupCompile.cache
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\FadingInk_MarkupCompile.lref
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\FadingInk.exe
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\FadingInk.pdb
+C:\Fadingink Manager\FadingInk10.00\CS\bin\x64\Debug\FadingInk.exe.config
+C:\Fadingink Manager\FadingInk10.00\CS\bin\x64\Debug\FadingInk.exe.manifest
+C:\Fadingink Manager\FadingInk10.00\CS\bin\x64\Debug\FadingInk.application
+C:\Fadingink Manager\FadingInk10.00\CS\bin\x64\Debug\FadingInk.exe
+C:\Fadingink Manager\FadingInk10.00\CS\bin\x64\Debug\FadingInk.pdb
+C:\Fadingink Manager\FadingInk10.00\CS\bin\x64\Debug\PDFNet.dll
+C:\Fadingink Manager\FadingInk10.00\CS\bin\x64\Debug\ToggleSwitch.dll
+C:\Fadingink Manager\FadingInk10.00\CS\bin\x64\Debug\PDFNet.xml
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\MainWindow.baml
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\Utilities\AnnotationPropertiesPopup.baml
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\Utilities\ColorPicker.baml
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\FadingInk.g.resources
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\PDFViewWPFSimpleTestCS.Properties.Resources.resources
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\FadingInk.csproj.GenerateResource.Cache
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\FadingInk.exe.manifest
+C:\Fadingink Manager\FadingInk10.00\CS\obj\x64\Debug\FadingInk.application
+C:\Fadingink Manager\FadingInk_log\CS\obj\x64\Debug\FadingInk.exe
+C:\Fadingink Manager\FadingInk_log\CS\obj\x64\Debug\FadingInk.pdb
+C:\Fadingink Manager\FadingInk_log\CS\obj\x64\Debug\FadingInk.csprojResolveAssemblyReference.cache
+C:\Fadingink Manager\FadingInk_log\CS\obj\x64\Debug\Utilities\FormSelectionView.baml
+C:\Fadingink Manager\FadingInk_log\CS\obj\x64\Debug\MainWindow.g.cs
+C:\Fadingink Manager\FadingInk_log\CS\obj\x64\Debug\Utilities\AnnotationPropertiesPopup.g.cs
+C:\Fadingink Manager\FadingInk_log\CS\obj\x64\Debug\Utilities\ColorPicker.g.cs
+C:\Fadingink Manager\FadingInk_log\CS\obj\x64\Debug\Utilities\FormSelectionView.g.cs
+C:\Fadingink Manager\FadingInk_log\CS\obj\x64\Debug\App.g.cs
+C:\Fadingink Manager\FadingInk_log\CS\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Fadingink Manager\FadingInk_log\CS\obj\x64\Debug\FadingInk_MarkupCompile.cache
+C:\Fadingink Manager\FadingInk_log\CS\obj\x64\Debug\FadingInk_MarkupCompile.lref
